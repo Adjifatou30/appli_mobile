@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036621916051",
+    "project_id": "gestion-hotel-backend",
+    "storage_bucket": "gestion-hotel-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036621916051:android:f9f2a219281be952456a66",
+        "android_client_info": {
+          "package_name": "com.example.gestion_hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036621916051-r858tfbp1he5gufue9p349g6tq0g0924.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBHHf8gG4S73H_g7OUKoX_ZMdKb2AEpdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036621916051-r858tfbp1he5gufue9p349g6tq0g0924.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
